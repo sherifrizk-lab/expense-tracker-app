@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Expense Tracker V0.2",
+  "description": "A user-friendly expense tracker application that allows users to input their daily expenses and save them to a Google Sheet for easy management and analysis.",
+  "requestFramePermissions": []
+}
